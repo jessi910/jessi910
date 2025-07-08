@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jessica! <br/><a href="https://github.com/jessi910">Aspiring Cybersecurity Analyst</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional
+<h1>Hi, I'm Jessica! <br/><a href="https://github.com/jessi910">Aspiring Cybersecurity Analyst
 
 <h2> Cybersecurity Projects:</h2>
 
