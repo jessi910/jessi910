@@ -31,7 +31,7 @@
 - [ Analyzing the path to Facebook.com ](https://github.com/jessi910/JS-My_First_Custom_Gaming_PC_Build-IT-support-)
 
 <b>WHOIS Command Look up Lab using Linux OS CL</b> 
-- [ Analyzing the path to Facebook.com ](https://github.com/jessi910/JS-My_First_Custom_Gaming_PC_Build-IT-support-)
+- [ WHOIS Command Look up ](https://github.com/jessi910/-WHOIS-Domain-Lookup-Lab)
 
 
 <h2> IT Support Projects:</h2>
