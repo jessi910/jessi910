@@ -1,5 +1,10 @@
 <h1>Hi, I'm Jessica!👋
 
+
+🔐 **Aspiring Cybersecurity Analyst** | 🎖️ **Army Veteran**  
+💻 NPower IT Fundamentals Graduate  🌱 Currently building hands-on labs with TryHackMe & VirtualBox  
+🎯 Goal: Land an entry-level role in Help Desk or Cybersecurity
+
 <h2> Cybersecurity Projects:</h2>
 
 - Active Directory Lab
