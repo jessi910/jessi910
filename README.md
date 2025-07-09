@@ -23,17 +23,19 @@
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm
+ 
+<h2> IT Support Projects:</h2>
+
+  
  
 ## 🛠️ Tools & Technologies
 - 💻 VirtualBox, Kali Linux, Windows 11, Linux
 - 📡 Wireshark, Nmap, Splunk, Active Directory
 - 🧪 TryHackMe, LetsDefend,Command Line, 
 - 🛡️ Studying for: Splunk Core User Exam
+
  
-<h2> IT Support Projects:</h2>
-
-
 <h2> 📜Certifications:</h2>
 - 🏆 CompTIA Security+
 - 🏆 CompTIA CySA+
