@@ -34,7 +34,7 @@
 - [ WHOIS Command Look up ](https://github.com/jessi910/-WHOIS-Domain-Lookup-Lab)
 
 <b>Introduction to Linux and Basic Command Line Essentials Lab</b> 
-- [ Practicing Basic Commands in Linux Command Line ]()
+- [ Practicing Basic Commands in Linux Command Line ](https://github.com/jessi910/-WHOIS-Domain-Lookup-Lab)
 
 
 
