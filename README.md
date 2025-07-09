@@ -31,7 +31,7 @@
 <b>Help Deskt Ticket</b> 
 - [ Submitting Help Desk Ticket ](https://github.com/jessi910/JS-Help_desk_ticket-IT-Support-)
 
--   <b>My First Custom Gaming PC Built Presentation</b> 
+ <b>My First Custom Gaming PC Built Presentation</b> 
 - [ Custom Gaming PC Built ](https://github.com/jessi910/JS-My_First_Custom_Gaming_PC_Build-IT-support-)
  
 ## 🛠️ Tools & Technologies
