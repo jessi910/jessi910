@@ -12,7 +12,7 @@
 - [Practicing VPN Log Analysis with Splunk](https://github.com/jessi910/JS_VPN_Log_Analysis_with_Splunk_Cybersecurity)
 
  <b>Networking Lab Testing Connectivity with ping </b>
-- [Testing Connectivity with ping ](https://github.com/jessi910/JS_VPN_Log_Analysis_with_Splunk_Cybersecurity)
+- [Testing Connectivity with ping ](https://github.com/jessi910/Networking-Lab-Testing-Connectivity-with-ping)
 
 
 <h2> IT Support Projects:</h2>
