@@ -33,6 +33,10 @@
 <b>WHOIS Command Look up Lab using Linux OS CL</b> 
 - [ WHOIS Command Look up ](https://github.com/jessi910/-WHOIS-Domain-Lookup-Lab)
 
+<b>Linux OS Command Line Lab</b> 
+- [ WHOIS Command Look up ](https://github.com/jessi910/-WHOIS-Domain-Lookup-Lab)
+
+
 
 <h2> IT Support Projects:</h2>
 
