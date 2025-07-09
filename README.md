@@ -22,8 +22,13 @@
 <h2> IT Support Projects:</h2>
 
 
-<h2> Certifications:</h2>
-  
+<h2> 📜Certifications:</h2>
+- 🏆 CompTIA Security+
+- 🏆 CompTIA CySA+
+- 🏆 CompTIA Network+
+- 🏆 CompTIA Linux+
+- 🏆 CompTIA Tech+
+- 🏆 CompTIA A+
 
 <h2>📺 Popular YouTube Videos</h2>
 
