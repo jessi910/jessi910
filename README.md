@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jessica!👋
+<h1># 👋 Hi there, I'm Jessica!
 
 
 🔐 **Aspiring Cybersecurity Analyst** | 🎖️ **Army Veteran**  
