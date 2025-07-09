@@ -14,6 +14,8 @@
  <b>Networking Lab Testing Connectivity with ping </b>
 - [Testing Connectivity with ping ](https://github.com/jessi910/Networking-Lab-Testing-Connectivity-with-ping)
 
+ <b>Active Directory Lab</b> 
+- [ Hands on Active Directory Lab ]
 
 <h2> IT Support Projects:</h2>
 
