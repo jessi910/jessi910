@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jessica!👋href="https://github.com/jessi910">Aspiring Cybersecurity Analyst
+<h1>Hi, I'm Jessica!👋
 
 <h2> Cybersecurity Projects:</h2>
 
