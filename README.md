@@ -25,6 +25,12 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
  
+  - ## 🛠️ Tools & Technologies
+- 💻 VirtualBox, Kali Linux, Windows 11
+- 📡 Wireshark, Nmap, Splunk, Active Directory
+- 🧪 TryHackMe, Git, Command Line, Linux
+- 🛡️ Studying for: Splunk Core User Exam
+ 
 <h2> IT Support Projects:</h2>
 
 
