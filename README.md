@@ -27,6 +27,9 @@
 <b>Shopping Safe Online Guide Presentation</b> 
 - [ Shopping Safe Online Guide](https://github.com/jessi910/JS_Shopping_Safe_Online_PowerPoint_Guide_Cybersecurity-)
 
+- - <b>Analyzing the Path to Facebook.com using the traceroute command</b> 
+- [ Analyzing the path to Facebook.com ](https://github.com/jessi910/JS-My_First_Custom_Gaming_PC_Build-IT-support-)
+
 <h2> IT Support Projects:</h2>
 
 <b>Help Deskt Ticket</b> 
@@ -34,6 +37,10 @@
 
  <b>My First Custom Gaming PC Built Presentation</b> 
 - [ Custom Gaming PC Built ](https://github.com/jessi910/JS-My_First_Custom_Gaming_PC_Build-IT-support-)
+
+
+ 
+ 
  
 ## 🛠️ Tools & Technologies
 - 💻 VirtualBox, Kali Linux, Windows 11, Linux
