@@ -8,7 +8,7 @@
 
 <h2> Cybersecurity Projects:</h2>
 
-- Active Directory Lab
+- VPN Log Analysis with Splunk
 
   - 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
