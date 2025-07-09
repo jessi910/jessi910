@@ -62,6 +62,7 @@
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [What to do expect on your first day as a IT Help Desk Technician](https://www.youtube.com/watch?v=qXXQFw-Vnxg&t=295s)
+- [A Day in the Life of a IT Support Technician](https://www.youtube.com/watch?v=VlzvOf0f3rk)
 
 ## 🤝 Let's Connect
 Feel free to follow my journey or connect for collaboration!  
