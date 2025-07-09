@@ -19,7 +19,7 @@
 
   
  <b>Phishing Attack EDR-Investigation Report</b> 
-- [ Phishing Attack](https://github.com/jessi910/JS_Phishing_Attack_EDR_Investigation_Report)
+- [ Phishing Attack](https://github.com/jessi910/JS_Phishing_Attack_EDR_Investigation_Report_Cybersecurity/tree/main)
 
 <b>Hands On Nmap Scanning Web Enumeration Report</b> 
 - [ Nmap Scanning a local network](https://github.com/jessi910/JS_Hands_On_Lab_Network_Scanning_and_Web_Enumeration_with_Nmap_Cybersecurity)
