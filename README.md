@@ -22,7 +22,7 @@
 - [ Phishing Attack](https://github.com/jessi910/JS_Phishing_Attack_EDR_Investigation_Report)
 
 <b>Hands On Nmap Scanning Web Enumeration Report</b> 
-- [ Nmap Scanning a local network](https://github.com/jessi910/JS_Hands_On_Lab_Network_Scanning_and_Web_Enumeration_with_Nmap)
+- [ Nmap Scanning a local network](https://github.com/jessi910/JS_Hands_On_Lab_Network_Scanning_and_Web_Enumeration_with_Nmap_Cybersecurity)
 
 <b>Shopping Safe Online Guide Presentation</b> 
 - [ Shopping Safe Online Guide](https://github.com/jessi910/JS_Shopping_Safe_Online_PowerPoint_Guide_Cybersecurity-)
