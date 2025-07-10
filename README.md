@@ -3,7 +3,7 @@
 
 
 🔐 **Aspiring Cybersecurity Analyst** | 🎖️ **Army Veteran**  
-💻 NPower IT Fundamentals Graduate  🌱 Currently building hands-on labs with TryHackMe, LetsDefend & VirtualBox  
+💻 NPower IT Fundamentals Graduate  🌱 Currently building    hands-on labs with TryHackMe, LetsDefend & VirtualBox  
 🎯 Goal: Land an entry-level role in Help Desk or Cybersecurity
 
 <h2> Cybersecurity Projects:</h2>
