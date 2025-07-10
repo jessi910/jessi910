@@ -72,6 +72,15 @@
 - [What to do expect on your first day as a IT Help Desk Technician](https://www.youtube.com/watch?v=qXXQFw-Vnxg&t=295s)
 - [A Day in the Life of a IT Support Technician](https://www.youtube.com/watch?v=VlzvOf0f3rk)
 
+<h2>🌟 Favorite Motivational Videos</h2>
+
+- [Focus on yourself and stay silent in 2025 ](https://www.youtube.com/watch?v=k9m7BgRRInc)
+- [Success is not a comfortabe procedure](https://www.youtube.com/watch?v=k9m7BgRRInc)
+- [Nobody is coming ](https://youtube.com/shorts/AJpErm8H2aU?si=CFQpiKqAoUGrGfEj)
+- [The Power of Hope ](https://www.youtube.com/shorts/ZwcaFhdjRY4)
+
+
+
 ## 🤝 Let's Connect
 Feel free to follow my journey or connect for collaboration!  
 🔗 [LinkedIn](https://www.linkedin.com/in/jstovall1) 
