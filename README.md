@@ -76,7 +76,7 @@
 
 - [Focus on yourself and stay silent in 2025 ](https://www.youtube.com/watch?v=k9m7BgRRInc)
 - [Success is not a comfortable procedure](https://www.youtube.com/shorts/ANEokonLIPg)
-- [Nobody is coming ](https://youtube.com/shorts/AJpErm8H2aU?si=CFQpiKqAoUGrGfEj)
+- [Noone's is coming ](https://youtube.com/shorts/AJpErm8H2aU?si=CFQpiKqAoUGrGfEj)
 - [The Power of Hope ](https://www.youtube.com/shorts/ZwcaFhdjRY4)
 
 
