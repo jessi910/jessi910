@@ -4,7 +4,7 @@
 
 🔐 **Aspiring SOC Analyst** | 🎖️ **Army Veteran**  
 💻 NPower IT Fundamentals Graduate  🌱 Currently building    hands-on labs with TryHackMe, LetsDefend & VirtualBox  
-🎯 Goal: Land an entry-level role Cybersecurity
+🎯 Goal: Land an entry-level role in Cybersecurity
 
 <h2> Cybersecurity Projects:</h2>
 
