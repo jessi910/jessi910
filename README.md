@@ -36,7 +36,9 @@
 <b>Introduction to Linux and Basic Command Line Essentials Lab</b> 
 - [ Practicing Basic Commands in Linux Command Line ](https://github.com/jessi910/Introduction-to-Linux-and-Basic-Command-Line-Essentials)
 
+Performing a search on SPLUNK
 
+Saving a report on SPLUNK
 
 <h2> IT Support Projects:</h2>
 
